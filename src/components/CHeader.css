@@ -1,0 +1,9 @@
+.headerContainer {
+    display: flex;
+    background-color: #FBF6EF;
+}
+.headerLogo {
+    height: 30vmin;
+    padding: 15px;
+    margin: 20px;
+}
