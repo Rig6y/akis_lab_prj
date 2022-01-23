@@ -5,7 +5,7 @@ import logo from "../logo.svg";
 class CHeader extends Component {
     render() {
       return(
-          <header>
+          <header className="headerContainer">
               <img src={logo} className="headerLogo" alt="logo" />
           </header>
       )
