@@ -16,5 +16,11 @@ img {
     max-width: 450px;
     height: auto;
     float: right;
-    position: relative;
+}
+iframe {
+    margin: 20px;
+    
+}
+span {
+    text-decoration: underline;
 }

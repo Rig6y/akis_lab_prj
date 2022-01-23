@@ -6,9 +6,9 @@ class CHeader extends Component {
     render() {
       return(
           <header className="headerContainer">
-              <p>Text1</p>
+              <a href="./Kami.js">Kami</a>
               <img src={logo} className="headerLogo" alt="logo" />
-              <p>Text2</p>
+              <a>Text2</a>
           </header>
       )
     }
