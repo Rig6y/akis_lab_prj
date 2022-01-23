@@ -1,0 +1,20 @@
+.contentsContainer {
+    background-color: #E3DCCC;
+    min-height: 817px;
+}
+h1 {
+    margin: 0;
+}
+h2 {
+    text-align: left;
+    margin: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+img {
+    margin-top: 20px;
+    max-width: 450px;
+    height: auto;
+    float: right;
+    position: relative;
+}
