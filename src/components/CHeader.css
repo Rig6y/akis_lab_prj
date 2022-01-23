@@ -1,9 +1,15 @@
 .headerContainer {
+    height: 80px;
     display: flex;
+    align-items: center;
     background-color: #FBF6EF;
+    justify-content: center;
 }
 .headerLogo {
-    height: 30vmin;
-    padding: 15px;
+    height: 200%;
+    padding: 20px;
     margin: 20px;
+}
+p {
+    margin: 0 36px;
 }
